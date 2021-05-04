@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt upgrade
+cd Desktop
+git clone https://github.com/dura51/remasteredscan.git
+cd remasteredscan 
+chmod +x remasteredscan.sh
+sudo ./remateredscan.sh your target domain
